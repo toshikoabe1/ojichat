@@ -10,6 +10,9 @@
   <a href="https://codecov.io/gh/greymd/ojichat"><img src="https://codecov.io/gh/greymd/ojichat/branch/master/graph/badge.svg" alt="codecov" /></a>
 </p>
 
+夏休みの宿題！
+
+
 ## なんだこれは
 
 おじさんがLINEやメールで送ってきそうな文を生成するコマンド。
